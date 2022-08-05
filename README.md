@@ -3,7 +3,7 @@ Hi 👋 I’m Sanjay-Narkedamilli
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-narkedamilli&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-narkedamilli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-narkedamilli&label=Profile Views&color=81C3D7&style=flat" alt="sanjay-narkedamilli" width="200" height="40"/> </p>
 
 - 🧑‍🎓 I'm currently pursuing my BTech CSE in NIT Silchar
 - 👀 I'm interested in Full Stack Web Development.
