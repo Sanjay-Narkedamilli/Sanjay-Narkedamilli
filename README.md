@@ -1,7 +1,5 @@
 Hi 👋 I’m Sanjay-Narkedamilli
-<h3 align="center">Full Stack developer from India</h3>
-
-
+<h2 align="center">Full Stack developer from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-narkedamilli&label=Profile Views&color=81C3D7&style=flat" alt="sanjay-narkedamilli" width="200" height="40"/> </p>
 
